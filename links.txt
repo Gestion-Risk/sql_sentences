@@ -1,0 +1,15 @@
+1.http://127.0.0.1:8000/createuser/
+2.http://127.0.0.1:8000/loginuser/
+3.http://127.0.0.1:8000/generate/
+4.http://127.0.0.1:8000/createcapacitaciones/
+5.http://127.0.0.1:8000/deletecapacitaciones/7
+6.http://127.0.0.1:8000/listcapacitaciones/
+7. updatecapacitaciones/<int:pk> 
+8. http://127.0.0.1:8000/listalltrabajadores/?cedula=1005869400
+9. http://127.0.0.1:8000/listalltrabajadores/
+10. http://127.0.0.1:8000/createregistros/
+11. http://127.0.0.1:8000/listallregistros/
+	11.1 http://127.0.0.1:8000/listallregistros/?cedulaTrabajador=1005869560
+	11.2 http://127.0.0.1:8000/listallregistros/?idRegistro=2
+12. http://127.0.0.1:8000/deleteregistros/2
+
